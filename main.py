@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 def add():
     try:
         n1 = float(num1.get())
