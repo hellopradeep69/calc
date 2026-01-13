@@ -6,6 +6,12 @@
 
 ----------
 
+### Dependences
+----------
+```bash
+sudo pacman -S tk
+```
+
 - Clone this repo
 
 ```bash
